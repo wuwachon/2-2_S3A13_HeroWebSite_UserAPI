@@ -1,6 +1,25 @@
 # HeroesWbeSite_UserAPI
 
-Practice the skills：
+**_Basic HTML、CSS、JS_**
+
+**Webpage**: https://wuwachon.github.io/2-2_S3A13_HeroWebSite_UserAPI/
+![image](./screenshot.png)
+
+## Clone to local
+
+Terminal comment:
+
+```
+git clone https://github.com/wuwachon/2-2_S3A13_HeroWebSite_UserAPI   // download to local
+
+cd 2-2_S3A13_HeroWebSite_UserAPI   // move to file
+
+code .  // open in VS Code
+```
+
+Run the live server on VS Code to check the webpage instantly.
+
+## Practice the skills：
 
 - Use axios to get data from API
 - Bootstrap to build a basic website
@@ -9,7 +28,7 @@ Practice the skills：
 - Local Storage
 - Naming convention for functions
 
-## axios
+### axios
 
 **Install axios by using CDN**
 
@@ -32,7 +51,7 @@ const USER_URL = "https://randomuser.me/api/?results=35";
 
 This API accept many different parameters such as how many results from an order, result gender,...etc.
 
-## [bootstrap](https://getbootstrap.com/)
+### [bootstrap](https://getbootstrap.com/)
 
 **CSS link into HTML <head>**
 
@@ -63,7 +82,7 @@ or
 - [Paginator](https://getbootstrap.com/docs/5.1/components/pagination/)
 - [iframe](https://getbootstrap.com/docs/5.1/helpers/ratio/#example)
 
-## [Google Fonts](https://fonts.google.com/)
+### [Google Fonts](https://fonts.google.com/)
 
 **CSS link into HTML <head>**
 
@@ -71,17 +90,16 @@ or
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 ```
 
-## JS DOM selectors
+### JS DOM selectors
 
 - render view panel from raw datas
 - render view panel by different display ways
 - render view panel by filter datas
 
-## Local Storage
+### Local Storage
 
 Event Listener tied on the heart icon that push into or splice from the Local Storage datas.
 
-## Naming convention for functions
+### Naming convention for functions
 
-Still need to improve the descriptive naming skill
-Keep practicing!
+Still need to improve the descriptive naming skill.
